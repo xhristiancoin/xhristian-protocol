@@ -1,3 +1,6 @@
+[![X Follow](https://img.shields.io/twitter/follow/xhristiancoin.svg?style=social)](https://x.com/xhristiancoin)
+[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@xhristiancoin)](https://t.me/xhristiancoin)
+
 # XHRISTIAN Protocol Documentation
 
 This repository contains the technical and structural documentation for the $XHRISTIAN project.
