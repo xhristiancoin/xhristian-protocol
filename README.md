@@ -5,20 +5,26 @@
 
 This repository contains the technical and structural documentation for the $XHRISTIAN project.
 
-It serves as the canonical reference for contract-related information, token supply details, and on-chain verification materials once the project is live.
+It serves as the canonical reference for contract-related information, token supply details, and on-chain verification materials.
 
 ---
+## Contract Address:
 
-## Pre-Launch Status
+`4HzMiUyAAmKrpabFActi1QkARPf9Vbk6yCPL3D8ypump`
 
-The $XHRISTIAN token has not yet been deployed at the time of this writing.
+## Intended documentation structure
 
-This repository currently documents:
-- Intended documentation structure
-- Disclosure standards for post-launch verification
-- Principles guiding how on-chain information will be published
+(in construction)
 
-All contract addresses, final supply figures, and verification references will be added here after deployment.
+## Disclosure standards for verification
+
+(in construction)
+
+## Principles guiding how on-chain information will be published
+
+(in construction)
+
+All contract addresses, final supply figures, and verification references will be added here.
 
 ---
 
