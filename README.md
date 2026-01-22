@@ -10,7 +10,7 @@ It serves as the canonical reference for contract-related information, token sup
 ---
 ## Contract Address:
 
-`4HzMiUyAAmKrpabFActi1QkARPf9Vbk6yCPL3D8ypump`
+`G5EvakkYhH4fWBs83aFqKBMrTdvHqD2xY7RPKu2Xpump`
 
 ## Intended documentation structure
 
